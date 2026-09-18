@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 M.Sc. student in Electronic Engineering  
+🧠 Research focus: **Edge Computing for Deep Learning**  
+🛠 Side projects: **Linux development**, embedded systems, and performance optimization
